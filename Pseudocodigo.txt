@@ -1,0 +1,9 @@
+Algoritmo MaximizeProfit
+Entrada: lista de precios de acciones por día (prices)
+Salida: ganancia máxima (profit)
+
+1. Inicializar profit = 0
+2. Para cada día i desde 1 hasta n - 1:
+     a. Si prices[i] > prices[i - 1]:
+          i. profit += prices[i] - prices[i - 1]
+3. Retornar profit
