@@ -1,0 +1,30 @@
+# Resumen del Capítulo 1: Software Engineering at Google
+
+## Introducción
+El primer capítulo del libro **Software Engineering at Google** establece la diferencia entre la programación tradicional y la ingeniería de software a gran escala. Se enfoca en cómo Google aborda el desarrollo de software con principios que garantizan sostenibilidad, escalabilidad y mantenimiento eficiente a lo largo del tiempo.
+
+## Principales ideas
+
+### 1. Diferencias entre Programación y Ingeniería de Software
+   - La **programación** consiste en escribir código para resolver un problema inmediato. Puede ser realizado por una sola persona y en un corto período de tiempo.
+   - La **ingeniería de software**, en cambio, se centra en el desarrollo de sistemas de software que son **sostenibles** a lo largo del tiempo y que pueden ser trabajados por múltiples ingenieros de manera colaborativa.
+   - Un software bien diseñado no solo debe resolver un problema hoy, sino ser fácil de modificar y escalar en el futuro.
+
+### 2. Escalabilidad del Software
+   - A medida que un sistema crece, el número de desarrolladores, líneas de código y dependencias aumenta, lo que genera complejidad.
+   - Google diseña sus sistemas para que sean escalables, lo que significa que el software puede crecer sin que su mantenimiento se vuelva ineficiente o costoso.
+   - Para lograrlo, la empresa hace uso de herramientas de automatización, prácticas de codificación estandarizadas y una infraestructura confiable.
+
+### 3. Costos de Mantenimiento
+   - La mayoría del costo de un software proviene de su mantenimiento a lo largo del tiempo y no de su desarrollo inicial.
+   - Sin buenas prácticas, el software tiende a volverse difícil de entender y modificar, lo que aumenta los costos.
+   - Google invierte en estrategias como revisiones de código, pruebas automatizadas, documentación detallada y sistemas de monitoreo para reducir estos costos a largo plazo.
+
+### 4. Cultura de Ingeniería en Google
+   - Google promueve una cultura en la que el código es responsabilidad del equipo en su conjunto y no de un solo desarrollador.
+   - Se priorizan revisiones de código rigurosas, lo que mejora la calidad y facilita el aprendizaje colectivo.
+   - Se fomenta el uso de metodologías ágiles adaptadas a su escala, junto con automatización de procesos para minimizar errores humanos y aumentar la eficiencia.
+   - El enfoque en **infraestructura confiable y herramientas internas** permite a los desarrolladores centrarse en la solución de problemas en lugar de lidiar con problemas técnicos recurrentes.
+
+## Conclusión
+La ingeniería de software en Google es más que solo escribir código; es un enfoque sistemático para construir software que sea **escalable, mantenible y eficiente** a lo largo del tiempo. Esto se logra mediante principios clave como la automatización, revisiones de código, pruebas y una cultura de ingeniería sólida. La inversión en estas prácticas desde el inicio reduce costos y facilita el desarrollo de productos confiables y sostenibles.
